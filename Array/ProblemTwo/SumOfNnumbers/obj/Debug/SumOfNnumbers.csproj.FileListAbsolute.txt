@@ -1,0 +1,7 @@
+C:\Users\hamim\source\repos\SumOfNnumbers\bin\Debug\SumOfNnumbers.exe.config
+C:\Users\hamim\source\repos\SumOfNnumbers\bin\Debug\SumOfNnumbers.exe
+C:\Users\hamim\source\repos\SumOfNnumbers\bin\Debug\SumOfNnumbers.pdb
+C:\Users\hamim\source\repos\SumOfNnumbers\obj\Debug\SumOfNnumbers.csproj.CoreCompileInputs.cache
+C:\Users\hamim\source\repos\SumOfNnumbers\obj\Debug\SumOfNnumbers.exe
+C:\Users\hamim\source\repos\SumOfNnumbers\obj\Debug\SumOfNnumbers.pdb
+C:\Users\hamim\source\repos\SumOfNnumbers\obj\Debug\SumOfNnumbers.csproj.AssemblyReference.cache

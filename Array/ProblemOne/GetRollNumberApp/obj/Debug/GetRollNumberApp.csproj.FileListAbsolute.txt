@@ -1,0 +1,7 @@
+C:\Users\hamim\source\repos\GetRollNumberApp\bin\Debug\GetRollNumberApp.exe.config
+C:\Users\hamim\source\repos\GetRollNumberApp\bin\Debug\GetRollNumberApp.exe
+C:\Users\hamim\source\repos\GetRollNumberApp\bin\Debug\GetRollNumberApp.pdb
+C:\Users\hamim\source\repos\GetRollNumberApp\obj\Debug\GetRollNumberApp.csproj.AssemblyReference.cache
+C:\Users\hamim\source\repos\GetRollNumberApp\obj\Debug\GetRollNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\hamim\source\repos\GetRollNumberApp\obj\Debug\GetRollNumberApp.exe
+C:\Users\hamim\source\repos\GetRollNumberApp\obj\Debug\GetRollNumberApp.pdb
