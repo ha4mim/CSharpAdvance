@@ -1,0 +1,7 @@
+D:\CsharpAdvance\Methods\ProblemOne\AdditionofNumbersApp\bin\Debug\AdditionofNumbersApp.exe.config
+D:\CsharpAdvance\Methods\ProblemOne\AdditionofNumbersApp\bin\Debug\AdditionofNumbersApp.exe
+D:\CsharpAdvance\Methods\ProblemOne\AdditionofNumbersApp\bin\Debug\AdditionofNumbersApp.pdb
+D:\CsharpAdvance\Methods\ProblemOne\AdditionofNumbersApp\obj\Debug\AdditionofNumbersApp.csproj.AssemblyReference.cache
+D:\CsharpAdvance\Methods\ProblemOne\AdditionofNumbersApp\obj\Debug\AdditionofNumbersApp.csproj.CoreCompileInputs.cache
+D:\CsharpAdvance\Methods\ProblemOne\AdditionofNumbersApp\obj\Debug\AdditionofNumbersApp.exe
+D:\CsharpAdvance\Methods\ProblemOne\AdditionofNumbersApp\obj\Debug\AdditionofNumbersApp.pdb
