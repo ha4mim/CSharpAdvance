@@ -1,0 +1,7 @@
+D:\CsharpAdvance\Array\TaskProblem\TaskProblem\bin\Debug\TaskProblem.exe.config
+D:\CsharpAdvance\Array\TaskProblem\TaskProblem\bin\Debug\TaskProblem.exe
+D:\CsharpAdvance\Array\TaskProblem\TaskProblem\bin\Debug\TaskProblem.pdb
+D:\CsharpAdvance\Array\TaskProblem\TaskProblem\obj\Debug\TaskProblem.csproj.AssemblyReference.cache
+D:\CsharpAdvance\Array\TaskProblem\TaskProblem\obj\Debug\TaskProblem.csproj.CoreCompileInputs.cache
+D:\CsharpAdvance\Array\TaskProblem\TaskProblem\obj\Debug\TaskProblem.exe
+D:\CsharpAdvance\Array\TaskProblem\TaskProblem\obj\Debug\TaskProblem.pdb
